@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-color: rgb(213, 242, 199);
+}
+
+h1{
+    color: rgb(31, 59, 161);
+    text-decoration: underline;
+}
+
+h2{
+    color: rgb(20, 116, 84);
+}
+
+h3{
+    color: rgb(43, 121, 121);
+}
+
+
+h4{
+    color: black;
+}
+
+img{
+    border-radius: 10px;
+    width: 350px;
+    height: 200px;
+}
+
+div{width: 350px;
+    height: 465px;
+    background-color: rgb(21, 188, 63);
+    text-align: center;
+    margin-left: 430px;
+    margin-top: 45px;
+    border-width: 10px;
+    border-style: solid;
+}
